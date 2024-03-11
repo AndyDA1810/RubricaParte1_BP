@@ -28,3 +28,14 @@ li a{
     padding: 2px 10px;
     text-align: center;
 }
+footer{
+    margin-top: 420px;
+    padding: 10px 55px;
+    background-color: black;
+    color: white;
+    text-align: end;
+}
+#productos{
+    display: flex;
+    justify-content: center;
+}
